@@ -1,41 +1,41 @@
 body {
-    font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 .header {
-    position: relative;
-    display: inline-block;
-    width: 100%;
-    background-image: url("../img/pattern.jpeg");
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  background-image: url("../img/pattern.jpeg");
 }
 
 .header h1 {
-    font-size: 100px;
-    font-weight: bold;
-    color: khaki;
-    text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
 }
 .section-title {
-    /* While I do know padding is not on the specs,
-    I liked the look of it */
-    padding-left: .5em;
-    font-size: 32px;
-    color: white;
+  /* While I do know padding is not on the specs,
+  I liked the look of it */
+  padding-left: .5em;
+  font-size: 32px;
+  color: white;
 }
 
 #brushes .section-title {
-    background-color: mediumspringgreen;
+  background-color: mediumspringgreen;
 }
 
 #frames .section-title {
-    background-color: lightcoral;
+  background-color: lightcoral;
 }
 
 #paint .section-title {
-    background-color: skyblue;
+  background-color: skyblue;
 }
 
 .content .price {
-    font-weight: bold;
-    color: blue;
+  font-weight: bold;
+  color: blue;
 }
